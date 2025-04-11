@@ -1,0 +1,13 @@
+{
+    "explorer.compactFolders": false,
+    "scm.compactFolders": false,
+    "notebook.compactView": false,
+    "files.exclude": {
+        "**/.DS_Store": false,
+        "**/.git": false,
+        "**/.hg": false,
+        "**/.svn": false,
+        "**/Thumbs.db": false
+    },
+    "files.readonlyFromPermissions": false
+}
